@@ -1,0 +1,11 @@
+customer_id,name,gender,country,signup_date,age,income,purchase_count
+1,Amit Kumar,male,India,2024-01-05,25,10000.0,2
+2,Sana Patel,female,India,2024-05-01,30,10000.0,3
+3,Ravi,male,India,2024-01-05,25,10000.0,1
+4,Priya,female,United States,2024-02-10,27,2000.0,0
+5,Amit Kumar,male,India,2024-01-05,25,10000.0,2
+6,NoName,,India,,25,6250.0,0
+7,Rohit,male,United States,2024-03-13,22,2500.0,1
+8,Leah,female,United States,2024-03-13,21,2500.0,1
+9,Zoe,non-binary,United Kingdom,2024-03-14,29,1500.0,2
+10,Empty,,,2024-04-01,25,0.0,0
